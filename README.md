@@ -1,6 +1,6 @@
 # Registro_hotel_KomTilHvile
 
-Pequeño programa desarrollado en C# con IDE Visual Studio 2022(v 17.9.4).
+Small program developed in C# with IDE Visual Studio 2022(v 17.9.4).
 
 ![image](https://github.com/Anbs12/Registro_hotel_KomTilHvile/assets/118308826/d1336a95-11c9-49dd-aa2c-62583903b20f)
 
